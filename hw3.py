@@ -1,3 +1,4 @@
 for i in range(5):
-    print('first', i)
+    print('HW3', i)
 
+print('second 2')
