@@ -1,4 +1,8 @@
 for i in range(5):
-    print('first', i)
+    print('HW3', i)
 
-print('first 1')
+<<<<<<< HEAD
+print('merge 1')
+=======
+print('merge 1')
+>>>>>>> second
